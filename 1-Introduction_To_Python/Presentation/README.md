@@ -1,6 +1,6 @@
 # Python Variables
-[Video Link 1:40:43🕟](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2003108840210255)
-[Watch the video at 1:40:43](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2003108840210255)
+[Watch the video at 1:40:42](https://www.facebook.com/iCodeguru/videos/2003108840210255) (please start the video at 1:40:42)
+
 
 
 
