@@ -1,4 +1,6 @@
 # Python Variables
+[Video Link 1:40:43🕟](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2003108840210255)
+
 
 ## Overview
 A brief guide on Python variables, their types, naming rules, and examples.
